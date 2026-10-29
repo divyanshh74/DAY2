@@ -1,0 +1,2 @@
+# DAY2
+AI LAB DAY 2
